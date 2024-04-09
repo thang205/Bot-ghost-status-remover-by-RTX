@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to Spotify","Watching YouTube"];
+const statusMessages = ["discord.gg/lowkeyzone","Best Digital Service Shop","Chuc Cac Ban Ngay Moi Vui Ve"];
 
 
 let currentIndex = 0;
